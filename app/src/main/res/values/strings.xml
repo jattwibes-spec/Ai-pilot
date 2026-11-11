@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WIBES AI AUTOPILOT</string>
+    <string name="tagline">THINK. COMMAND. AUTOMATE.</string>
+    <string name="accessibility_service_description">Enables WIBES AI Autopilot to inspect screen elements, assist in navigation, and execute automated actions on your device with your explicit authorization.</string>
+</resources>

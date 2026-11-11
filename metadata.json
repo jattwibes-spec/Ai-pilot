@@ -1,0 +1,6 @@
+{
+  "name": "WIBES AI AUTOPILOT",
+  "description": "Autonomous Personal AI Agent powered by Cactus Compute Needle 3 for on-device Android tool execution, natural-language automation, and multi-step planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
